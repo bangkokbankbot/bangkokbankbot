@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm bangkokbankbot
 
-<!--
-**bangkokbankbot/bangkokbankbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here you'll find projects, experiments, and contributions focused on automation, bots, and financial technology.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 Passionate about building bots and automation tools
+- 🏦 Interested in fintech, banking APIs, and secure transactions
+- 💡 Always exploring new ideas in software engineering and open source
+
+## 📂 My Projects
+
+- **[bangkokbankbot](https://github.com/bangkokbankbot/bangkokbankbot)**: Automating banking operations and API integrations.
+- Other repositories include experiments in automation, data processing, and more.
+
+## 🛠️ Technologies & Tools
+
+- **Languages**: Python, JavaScript, Shell, and more
+- **Frameworks**: Node.js, Flask, Express
+- **Tools**: GitHub Actions, Docker, REST APIs
+
+## 🌱 Currently Learning
+
+- Cloud deployment and DevOps
+- Advanced security for API automation
+- Machine Learning for financial data
+
+## 📫 How to reach me
+
+- [GitHub Issues](https://github.com/bangkokbankbot/bangkokbankbot/issues) on my repositories
+
+---
+
+Thanks for visiting my profile! Feel free to explore my repositories and reach out if you have questions or collaboration ideas.
